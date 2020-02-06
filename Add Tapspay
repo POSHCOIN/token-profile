@@ -1,0 +1,14 @@
+"en": "TAPS(TAPSPAY ) Transpay is a payment Plartform that unifies CryptoCurrency with Traditional monetary services. Its nick named Taps - pay", 
+  "email": "SUPPORT@TRANSPAY.ONLINE",
+  "website": "https://transpay.online/",
+  "state": "NORMAL",
+  "published_on": "2020-01-20",
+  "initial_price":{
+        "ETH":"0.000666 ETH", 
+  },
+  "links": {
+    "balance": "https://transpay.online/balance",
+    "twitter": "https://twitter.com/tapspay",
+    "telegram": "https://t.me/Tapspay",
+   
+}
